@@ -3,4 +3,4 @@
 
 [1. Introduction to PyTorch](https://colab.research.google.com/drive/1FrkJd_iEdvDl84aIiaBPbjvSzvapcdQp?usp=sharing)
 
-[2. Image Classification]()
+[2. Image Classification](https://colab.research.google.com/drive/1SRXmUZyjoMrj-N0OgYMvQ7q8bmIlerMf?usp=sharing)
