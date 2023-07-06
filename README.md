@@ -1,6 +1,6 @@
 # AI4H Summer School: Deep learning for medical image processing
 
-*The slides will be uploaded here after the lecture!*
+*The slides as well as final notebooks with solutions will be uploaded here after the end of summer school!*
 
 
 [1. Introduction to PyTorch](https://colab.research.google.com/drive/1FrkJd_iEdvDl84aIiaBPbjvSzvapcdQp?usp=sharing)
