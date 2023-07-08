@@ -4,6 +4,6 @@
 
 [1. Introduction to PyTorch (with solutions)](https://colab.research.google.com/drive/183Za_RfVrKtMX5IU_KEEDQKd37IiAOl7?usp=sharing)
 
-[2. Image Classification](https://colab.research.google.com/drive/1SRXmUZyjoMrj-N0OgYMvQ7q8bmIlerMf?usp=sharing)
+[2. Image Classification (with solutions)](https://colab.research.google.com/drive/1z0BJx4r_GJCeGOZXfWdxEthHD8UnzwIF?usp=sharing)
 
 [3. Image Segmentation](https://colab.research.google.com/drive/1ww3ProwaVdjusjNu17wuT1VxY0NhBewk?usp=sharing)
